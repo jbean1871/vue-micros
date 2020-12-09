@@ -1,0 +1,35 @@
+{
+"options": {
+    "height": 400
+},
+"records":[
+    {
+        "text": "",
+        "color": "white",
+        "description": "This will be a long description",
+        "size": "large"
+    },
+    {
+        "text": "Tile 2",
+        "color": "white",
+        "href": "https://addapptation.com/",
+        "size": "large"
+    },
+    {
+        "text": "Tile 3",
+        "color": "white",
+        "description": "This will be a long description",
+        "size": "large"
+    },
+    {
+        "text": "Tile 4",
+        "color": "white",
+        "size": "large"
+    },
+    {
+        "text": "Tile 5",
+        "color": "white",
+        "size": "large"
+    }
+]
+}
